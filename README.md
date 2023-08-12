@@ -1,2 +1,2 @@
 # 30_days_of_Javascript
-Solution of 30-days -of-Javascript Repository by Asabeneh
+Detailed Solution of 30-days -of-Javascript Repositoryof  Asabeneh/30-Days-Of-JavaScript
