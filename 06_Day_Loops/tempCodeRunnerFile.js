@@ -1,0 +1,35 @@
+// Exercise 1
+
+const countries = [
+    'Albania',
+    'Bolivia',
+    'Canada',
+    'Denmark',
+    'Ethiopia',
+    'Finland',
+    'Germany',
+    'Hungary',
+    'Ireland',
+    'Japan',
+    'Kenya'
+  ]
+  
+  const webTechs = [
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'React',
+    'Redux',
+    'Node',
+    'MongoDB'
+  ]
+  
+  const mernStack = ['MongoDB', 'Express', 'React', 'Node']
+
+  // 1. Iterate 0 to 10 using for loop, do the same using while and do while loop
+
+
+for(let i = 0; i <countries.length();i++)
+{
+    console.log(countries[i])
+}
